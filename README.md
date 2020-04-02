@@ -7,4 +7,5 @@
     声卡: 内建Realtek® ALC887芯片  
     网卡: ①内建Realtek® Ethernet ②内建intel® Ethernet Connection  
     硬盘: SN520 NVMe 128GB  
-   无线网卡: 1820A  
+    无线网卡: 1820A  
+   
