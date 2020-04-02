@@ -25,3 +25,5 @@
     单独DP正常（支持热插拔）
     双屏HDMI+DP正常（不能同时插，双屏前先拔掉一个输出）
     
+
+![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/igpu.png)
