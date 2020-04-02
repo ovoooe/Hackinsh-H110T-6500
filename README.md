@@ -24,6 +24,11 @@
     单独HDMI正常（支持热插拔）
     单独DP正常（支持热插拔）
     双屏HDMI+DP正常（不能同时插，双屏前先拔掉一个输出）
+    有问题QQ2366658742联系
     
 
 ![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/igpu.png)
+![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/internet.png)
+![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/system.png)
+![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/sound.png)
+![image](https://github.com/ovoooe/Hackinsh-H110T-6500/blob/master/Bluetooth.png)
